@@ -5,7 +5,7 @@ Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS 10.1
 
 
 # Hardware
-Motherboard/主板: Asus H110s1 (mini STX)
+Motherboard/主板: Asus H110s1 (mini STX) \n
 CPU: QL2X (7820HK modify from BGA to LGA)
 CPU Cooler: NOCTUA NH-L9i
 Hard Drive/硬盘: Hikvision C2000pro 512gb
@@ -33,14 +33,14 @@ Continuity
 
 # BIOS setting：
 
-Disable：
+##Disable：
   Fast Boot
   CFG Lock 
   VT-d
   CSM
   Intel SGX
 
-Enable：
+##Enable：
   VT-x
   Above 4G decoding
   Hyper Threading
