@@ -33,14 +33,14 @@ Continuity
 
 # BIOS setting：
 
-##Disable：
+## Disable：
   Fast Boot
   CFG Lock 
   VT-d
   CSM
   Intel SGX
 
-##Enable：
+## Enable：
   VT-x
   Above 4G decoding
   Hyper Threading
