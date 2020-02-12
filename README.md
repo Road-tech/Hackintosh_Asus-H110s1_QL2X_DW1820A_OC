@@ -26,6 +26,7 @@ Already upgrade to Catalina 10.15.3
 - Audio output on HDMI  
 - All USB ports  
 - Wi-Fi & Bluetooth  
+- 3.5mm Audio Output & Mic Input
 - Airdrop  
 - AirPlay  
 - Continuity  
@@ -34,7 +35,6 @@ Already upgrade to Catalina 10.15.3
 - Sleep  
 
 ### Not tested yet:
-- 3.5mm Audio Output  
 - DP port  
 - 4k display  
   
