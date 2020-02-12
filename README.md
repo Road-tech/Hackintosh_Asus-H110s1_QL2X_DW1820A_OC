@@ -1,5 +1,9 @@
 # Hackintosh_Asus-H110s1_QL2X_DW1820A_OC
-Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS 10.15.2 
+Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS Catalina
+
+---
+
+Already upgrade to Catalina 10.15.3
 
 ---
 
@@ -22,6 +26,9 @@ Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS 10.1
 - Audio output on HDMI  
 - All USB ports  
 - Wi-Fi & Bluetooth  
+- Airdrop  
+- AirPlay  
+- Continuity  
 
 ### Not working:
 - Sleep  
@@ -30,9 +37,6 @@ Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS 10.1
 - 3.5mm Audio Output  
 - DP port  
 - 4k display  
-- Airdrop  
-- AirPlay  
-- Continuity  
   
 ---
 
