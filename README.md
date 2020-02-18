@@ -1,5 +1,6 @@
 # Hackintosh_Asus-H110s1_QL2X_DW1820A_OC
 Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS Catalina
+**使用EFI前请务必修改三码(SSN,UUID,ROM)**
 
 ---
 
@@ -26,6 +27,8 @@ Already upgrade to Catalina 10.15.3
 	**！ 此EFI仅中间的HDMI接口可以使用 ！**
 	
 - 定制USB接口，修复USB-C接口（现在可以正反插），修复USB充电（现支持苹果快充）   
+
+- 地区代码从```HK```改为```#a```, 修复Wi-Fi只能到300m的bug  
 
 ---
 
