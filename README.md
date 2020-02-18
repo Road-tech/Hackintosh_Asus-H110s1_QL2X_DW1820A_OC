@@ -24,6 +24,8 @@ Already upgrade to Catalina 10.15.3
 - 如果认为支持HEVC硬解更重要，可以下载 [EFI-630.zip](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/raw/master/EFI-630.zip)。 此EFI显卡ID设置为 0x59120000 ｜iMac18,2 ｜	Intel HD Graphics HD630  
 
 	**！ 此EFI仅中间的HDMI接口可以使用 ！**
+	
+- 定制USB接口，修复USB-C接口（现在可以正反插），修复USB充电（现支持苹果快充）   
 
 ---
 
