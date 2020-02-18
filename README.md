@@ -2,7 +2,7 @@
 Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS Catalina    
 
 **使用EFI前请务必修改三码(SSN,UUID,ROM)**    
-**Please change code (SSN,UUID,ROM) before using this EFI**   
+**Please change three codes (SSN,UUID,ROM) before using this EFI**   
 
 ---
 
