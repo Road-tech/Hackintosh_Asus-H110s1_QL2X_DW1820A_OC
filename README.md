@@ -7,7 +7,7 @@ Already upgrade to Catalina 10.15.3
 
 ---
 
-时间： 2020-02-18 更新：  
+2020-02-18 更新：  
 
 - 显卡ID改为 0x193b0005 ｜ MacBookPro13,1 ｜ Intel HD Graphics 530/4K  
 
