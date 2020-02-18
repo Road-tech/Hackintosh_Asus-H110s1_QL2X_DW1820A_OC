@@ -7,6 +7,26 @@ Already upgrade to Catalina 10.15.3
 
 ---
 
+时间： 2020-02-18 更新：  
+
+- 显卡ID改为 0x193b0005 ｜ MacBookPro13,1 ｜ Intel HD Graphics 530/4K  
+
+	牺牲HEVC硬解，但是所有视频输出接口工作正常  
+
+- 增加 **LogoutHook** 文件用于模拟NVRAM，请在安装完系统后将该文件夹放置在任意位置。并且在终端输入 ```sudo defaults write com.apple.loginwindow LogoutHook /path/to/LogoutHook.command```
+
+	比如你放在**下载**文件夹内： ```sudo defaults write com.apple.loginwindow LogoutHook /Users/xjn/Documents/LogoutHook/LogoutHook.command```
+
+	重启后，你会在/EFI/下看到nvram.plist，代表已经成功模拟了。
+
+	**！运行后不要删除补丁包 ！**
+
+- 如果认为支持HEVC硬解更重要，可以下载 [EFI-630.zip](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/raw/master/EFI-630.zip)。 此EFI显卡ID设置为 0x59120000 ｜iMac18,2 ｜	Intel HD Graphics HD630  
+
+	**！ 此EFI仅中间的HDMI接口可以使用 ！**
+
+---
+
 # Hardware/硬件
 |  | Specifications / 型号 | Note / 备注 |
 |-------------------------|:---------------------------------:|:-------------------------------:|
