@@ -104,8 +104,8 @@ I try three ig-platform-id for QL2X:
 Result: 
 
 - 0x19120000: Three ports (1 DP, 2 HDMI) on motherboard working. **Unsupport HEVC**
-- 0x59120000: Three ports (1 DP, 2 HDMI) on motherboard working, but two HDMI ports can't display well (appear purple in color). **Support HEVC**
-- 0x591b0000: Two ports (1 DP, 1 HDMI close to DP) on motherboard working, but one HDMI port have no output. **Support HEVC**
+- 0x59120000: Two ports (2 HDMI) on motherboard working, but two HDMI ports can't display well (appear purple in color). **Support HEVC**
+- 0x591b0000: One ports (1 HDMI close to DP) on motherboard working, another HDMI port have no output. **Support HEVC**
 
 **!!More importantly!!**
 
@@ -130,8 +130,8 @@ QL2X 是 7820HK 的ES版本CPU， 核显为HD630。 7820HK是个笔记本平台�
 对应了3个结果：
 
 - 0x19120000: 主板上的3个接口 (1 DP, 2 HDMI) 都正常工作，但是**不支持HEVC硬解**
-- 0x59120000: 主板上的3个接口 (1 DP, 2 HDMI) 都工作, 可是2个HDMI接口输出都有问题(紫屏)。不过**支持HEVC硬解**
-- 0x591b0000: 主板上的2个接口(1 DP, 1 HDMI 靠近DP那个) 都工作正常, 剩下那个HDMI接口无输出。**支持HEVC硬解**
+- 0x59120000: 主板上的2个接口 (2 HDMI) 都工作, 可是2个HDMI接口输出都有问题(紫屏)。不过**支持HEVC硬解**
+- 0x591b0000: 主板上的1个接口(1 HDMI 靠近DP那个) 工作正常, 剩下那个HDMI接口无输出。**支持HEVC硬解**
 
 **另外很重要的是：**
 
