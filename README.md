@@ -10,6 +10,12 @@ Already upgrade to Catalina 10.15.3
 
 ---
 
+2020-02-20 更新：
+
+- 修复USB3.0接口， 现在USB-C和两个USB3.0速率正常了。
+
+---
+
 2020-02-18 更新：  
 
 - 显卡ID改为 0x193b0005 ｜ MacBookPro13,1 ｜ Intel HD Graphics 530/4K  
