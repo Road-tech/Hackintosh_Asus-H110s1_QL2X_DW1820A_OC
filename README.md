@@ -6,6 +6,12 @@ Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS Cata
 
 ---
 
+Already support to Catalina 10.15.4
+Update Whatevergreen to 1.3.8-DEBUG-t3 (Fix HDMI bug)
+Update Opencore to 0.5.6
+
+---
+
 Already upgrade to Catalina 10.15.3
 
 ---
