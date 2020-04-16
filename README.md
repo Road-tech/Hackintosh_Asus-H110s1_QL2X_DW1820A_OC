@@ -6,6 +6,32 @@ Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS Cata
 
 ---
 
+I'm so sorry, it's the lastest time to update this EFI for this Hardware(QL2X). 
+Because I alreadly change to use I3-8100. 
+But I found some ways to fix the display problem like appear purple in color:
+
+1. Try to Display Injector using Hackintosh.
+2. Try to force RGB mode.
+
+Reference linking:
+
+- [MacOS強制外接螢幕輸出RGB](https://blog.driftking.tw/2018/10/MacOS%E5%BC%B7%E5%88%B6%E5%A4%96%E6%8E%A5%E8%9E%A2%E5%B9%95%E8%BC%B8%E5%87%BARGB/)
+- [Force RGB mode in Mac OS X to fix the picture quality of an external monitor](https://www.mathewinkson.com/2013/03/force-rgb-mode-in-mac-os-x-to-fix-the-picture-quality-of-an-external-monitor)
+- [Dell U2713H on Mac: forcing RGB mode instead of YCbCr](https://embdev.net/topic/284710)
+
+---
+
+2020-04-17 更新：
+
+- Update LiLu to 1.4.3    
+- Update Whatevergreen to 1.3.9     
+- Update AppleALC to 1.4.8     
+- Update CPUFriend to 1.2.0    
+- Update NVMeFix to 1.0.2
+- Update VirtualSMC to 1.1.2
+
+---
+
 2020-04-01 更新：
 
 - Already support to Catalina 10.15.4    
