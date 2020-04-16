@@ -6,9 +6,9 @@ Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS Cata
 
 ---
 
-I'm so sorry, it's the lastest time to update this EFI for this Hardware(QL2X). 
-Because I alreadly change to use I3-8100. 
-But I found some ways to fix the display problem like appear purple in color:
+I'm so sorry, it's the lastest time to update this EFI for this Hardware(QL2X).    
+Because I alreadly change to use I3-8100.     
+But I found some ways to fix the display problem like appear purple in color:    
 
 1. Try to Display Injector using Hackintosh.
 2. Try to force RGB mode.
