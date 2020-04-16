@@ -7,12 +7,18 @@ Hackintosh for Asus-H110s1, QL2X, DW1820A, using Opencore and Support macOS Cata
 ---
 
 I'm so sorry, it's the lastest time to update this EFI for this Hardware(QL2X). Because I alreadly change to use I3-8100.     
-But I found some ways to fix the display problem like appear purple in color:    
+But I found some ways to fix the display problem like appear purple in color if you set up ig-platform-id to ```0x59120000```:
 
-1. Try to Display Injector using Hackintosh.
+1. Try to Injector Display EID using Hackintosh.
 2. Try to force RGB mode.
 
-Reference linking:
+很遗憾这是我最后一次为这个配置更新EFI，因为我已经改用i3-8100.
+但是我还是找到了一些解决紫屏的方法，如果你想把 ig-platform-id 设置为```0x59120000```:
+
+1. 尝试用Hackintosh注入显示器
+2. 尝试设置强制RBG模式
+
+Reference linking\参考链接:
 
 - [MacOS強制外接螢幕輸出RGB](https://blog.driftking.tw/2018/10/MacOS%E5%BC%B7%E5%88%B6%E5%A4%96%E6%8E%A5%E8%9E%A2%E5%B9%95%E8%BC%B8%E5%87%BARGB/)
 - [Force RGB mode in Mac OS X to fix the picture quality of an external monitor](https://www.mathewinkson.com/2013/03/force-rgb-mode-in-mac-os-x-to-fix-the-picture-quality-of-an-external-monitor)
