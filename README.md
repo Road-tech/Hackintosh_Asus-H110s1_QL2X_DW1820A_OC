@@ -13,7 +13,9 @@ But I found some ways to fix the display problem like appear purple in color if 
 1. Try to Injector Display EID using Hackintosh.
 2. Try to force RGB mode.
 
-很遗憾这是我最后一次为这个配置更新EFI，因为我已经改用i3-8100. [点击跳转](https://github.com/Road-tech/Hackintosh_Asus-H110s1_I3-8100_DW1820A_OC) 
+很遗憾这是我最后一次为这个配置更新EFI，因为我已经改用i3-8100. [点击跳转](https://github.com/Road-tech/Hackintosh_Asus-H110s1_I3-8100_DW1820A_OC)        
+
+
 但是我还是找到了一些解决紫屏的方法，如果你想把 ig-platform-id 设置为```0x59120000```:
 
 1. 尝试用Hackintosh注入显示器
